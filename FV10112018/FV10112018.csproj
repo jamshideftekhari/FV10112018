@@ -103,6 +103,7 @@
     <Compile Include="Model\FrCity.cs" />
     <Compile Include="Model\FVCatalog.cs" />
     <Compile Include="Model\Owner.cs" />
+    <Compile Include="ViewModel\AparViewModel.cs" />
     <Compile Include="ViewModel\CityViewModel.cs" />
     <Compile Include="ViewModel\NotifyPropertyChangedInvocatorAttribute.cs" />
     <Compile Include="View\MainPage.xaml.cs">

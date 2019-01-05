@@ -27506,11 +27506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EASJ\\Documents\\2018-2019\\SWD_1\\projects\\FV10112018\\FV10112018\\FV10112018.csproj",
+      "projectUniqueName": "C:\\Users\\EASJ\\Source\\Repos\\FV10112018\\FV10112018\\FV10112018.csproj",
       "projectName": "FV10112018",
-      "projectPath": "C:\\Users\\EASJ\\Documents\\2018-2019\\SWD_1\\projects\\FV10112018\\FV10112018\\FV10112018.csproj",
+      "projectPath": "C:\\Users\\EASJ\\Source\\Repos\\FV10112018\\FV10112018\\FV10112018.csproj",
       "packagesPath": "C:\\Users\\EASJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EASJ\\Documents\\2018-2019\\SWD_1\\projects\\FV10112018\\FV10112018\\obj\\",
+      "outputPath": "C:\\Users\\EASJ\\Source\\Repos\\FV10112018\\FV10112018\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
